@@ -46,7 +46,7 @@ API_TOKEN = 'YOUR_API_TOKEN'
 Run the script using Python:
 
 ```sh
-python rd-history-cleaner.py
+python rd-cleaner.py
 ```
 
 Follow the prompts:
