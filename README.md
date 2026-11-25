@@ -88,7 +88,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please contact `austin@spragginsdesigns.xyz`.
+For any inquiries or feedback, please contact `spragginsdesigns@gmail.com`.
 
 ---
 
